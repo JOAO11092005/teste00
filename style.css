@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Computer';
-    src: url(./godofwar/GODOFWAR.TTF);
+    src: url(./GODOFWAR.TTF);
 }
 @font-face {
     font-family: 'style';
-    src: url(./white_dream_2/White\ Dream.otf);
+    src: url(./Dream.otf);
 }
 body{
     background-image: url(./Lilsoka\,\ Twinji.jpeg);
