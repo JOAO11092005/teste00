@@ -1,0 +1,188 @@
+@font-face {
+    font-family: 'Computer';
+    src: url(./godofwar/GODOFWAR.TTF);
+}
+@font-face {
+    font-family: 'style';
+    src: url(./white_dream_2/White\ Dream.otf);
+}
+body{
+    background-image: url(./Lilsoka\,\ Twinji.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+h1{
+    font-family: 'computer';
+    color: rgb(232, 243, 252);
+    text-align: center;
+}
+.linha{
+    /* font-family: 'Dosis', sans-serif; */
+    font-family: 'Computer';
+    font-size: 20px;
+    color: rgb(229, 223, 235);
+    border-radius: 10px;
+    padding: 20px;
+     text-align: justify;
+}
+a{
+    padding: 20px;
+    
+}
+/* a .opcao{
+    text-align: right;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    color: black;
+    border-style: solid;
+} */
+
+.continue:hover{
+    
+    padding: 10px;
+    background-color:rgb(233, 233, 233);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border-style: solid;
+
+}
+.continue{
+    color: rgb(43, 148, 240);
+    background-color: aquamarine;
+    border-radius: 30px;
+    padding: 10px;
+}
+.home:hover{
+    
+    padding: 10px;
+    background-color:aquamarine;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border-style: solid;
+
+}
+.home{
+    color: rgb(43, 148, 240);
+    background-color: aquamarine;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.Musica:hover{
+    
+    padding: 10px;
+    background-color:aquamarine;
+    color: black;
+    border-radius: 20px;
+    border-style: solid;
+
+}
+.Musica{
+    color: rgb(43, 148, 240);
+    background-color: aquamarine;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.sobre:hover{
+    
+    padding: 10px;
+    background-color:aquamarine;
+    color: black;
+    border-radius: 20px;
+    border-style: solid;
+
+    
+}
+.sobre{
+    color: rgb(43, 148, 240);
+    background-color: aquamarine;
+    border-radius: 30px;
+    padding: 10px;
+}
+a:active{
+    background-color: rgb(209, 224, 206);
+    color: aliceblue;
+}
+/* footer{
+   margin: 50px;
+   padding: 50px;
+   font-size: 30px;
+   margin-left: 400px;
+   margin-right: 300px;
+   border-radius: 5px;
+
+
+
+} */
+footer{
+    text-align: center;
+    font-size: 30px;
+    padding:50px;
+    
+}
+.fa-facebook:hover{
+    border-color: blue;
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding: 6px;
+}
+.fa-facebook{
+    
+    padding: 10px;
+    background-color: rgb(91, 232, 236);
+    border-radius: 40px;
+
+}
+.fa-github:hover{
+    border-color: black;
+    background-color: rgb(53, 46, 46);
+    color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding: 6px;
+}
+.fa-github{
+    
+    padding: 10px;
+    background-color: rgb(91, 232, 236);
+    border-radius: 50px;
+}
+.fa-instagram:hover{
+    border-color: red;
+    background-color: rgb(240, 37, 37);
+    color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding: 6px;
+}
+.fa-instagram{
+    
+    padding: 10px;
+    background-color: rgb(91, 232, 236);
+    border-radius: 50px;
+   
+}
+.fa-google-drive:hover{
+    border-color: yellow;
+    background-color: yellow;
+    color: black;
+    border-style: solid;
+    border-radius: 40px;
+    padding: 6px;
+}
+.fa-google-drive{
+    padding: 10px;
+    background-color: rgb(91, 232, 236);
+    border-radius: 50px;
+   
+}
+h6{
+    font-family: 'style';
+}
