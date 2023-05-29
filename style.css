@@ -18,11 +18,12 @@ h1{
     color: rgb(232, 243, 252);
     text-align: center;
 }
+
 .linha{
     /* font-family: 'Dosis', sans-serif; */
     font-family: 'Computer';
     font-size: 20px;
-    color: rgb(229, 223, 235);
+    color: rgb(250, 250, 250);
     border-radius: 10px;
     padding: 20px;
      text-align: justify;
@@ -30,6 +31,7 @@ h1{
 }
 a{
     padding: 30px;
+    text-decoration: none;
     
 }
 /* a .opcao{
@@ -52,28 +54,35 @@ a{
 
 }
 .continue{
-    color: rgb(43, 148, 240);
-    background-color: aquamarine;
+    color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(43, 148, 240);
     border-radius: 30px;
     padding: 10px;
     text-decoration: underline none;
     font-family: 'computer';
+    border-style: solid;
+    
 }
 .home:hover{
     
     padding: 10px;
-    background-color:aquamarine;
+    background-color: aquamarine;
     color: rgb(0, 0, 0);
     border-radius: 20px;
     border-style: solid;
+   
 
 }
 .home{
-    color: rgb(43, 148, 240);
-    background-color: aquamarine;
+    color: rgb(255, 255, 255);
+   
     border-radius: 30px;
     padding: 10px;
     font-family: 'computer';
+    border-style: solid;
+    border-color: rgb(43, 148, 240);
+    margin: 2px;
 }
 
 .Musica:hover{
@@ -86,11 +95,12 @@ a{
 
 }
 .Musica{
-    color: rgb(43, 148, 240);
-    background-color: aquamarine;
+    color: rgb(255, 253, 253);
     border-radius: 30px;
     padding: 10px;
     font-family: 'computer';
+    border-style: solid;
+    border-color: rgb(43, 148, 240);
 }
 
 .sobre:hover{
@@ -100,15 +110,17 @@ a{
     color: black;
     border-radius: 20px;
     border-style: solid;
-
+    
     
 }
 .sobre{
-    color: rgb(43, 148, 240);
-    background-color: aquamarine;
+    color: rgb(255, 255, 255);
     border-radius: 30px;
     padding: 10px;
     font-family: 'computer';
+    border-style: solid;
+    border-color: rgb(43, 148, 240);
+    
 }
 a:active{
     background-color: rgb(209, 224, 206);
