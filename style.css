@@ -57,6 +57,7 @@ a{
     border-radius: 30px;
     padding: 10px;
     text-decoration: underline none;
+    font-family: 'computer';
 }
 .home:hover{
     
@@ -72,6 +73,7 @@ a{
     background-color: aquamarine;
     border-radius: 30px;
     padding: 10px;
+    font-family: 'computer';
 }
 
 .Musica:hover{
@@ -88,6 +90,7 @@ a{
     background-color: aquamarine;
     border-radius: 30px;
     padding: 10px;
+    font-family: 'computer';
 }
 
 .sobre:hover{
@@ -105,6 +108,7 @@ a{
     background-color: aquamarine;
     border-radius: 30px;
     padding: 10px;
+    font-family: 'computer';
 }
 a:active{
     background-color: rgb(209, 224, 206);
