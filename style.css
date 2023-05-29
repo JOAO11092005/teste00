@@ -138,6 +138,7 @@ footer{
     padding: 10px;
     background-color: rgb(91, 232, 236);
     border-radius: 40px;
+    margin:20px;
 
 }
 .fa-github:hover{
@@ -153,6 +154,7 @@ footer{
     padding: 10px;
     background-color: rgb(91, 232, 236);
     border-radius: 50px;
+    margin:20px;
 }
 .fa-instagram:hover{
     border-color: red;
@@ -167,6 +169,7 @@ footer{
     padding: 10px;
     background-color: rgb(91, 232, 236);
     border-radius: 50px;
+    margin:20px
    
 }
 .fa-google-drive:hover{
