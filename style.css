@@ -14,6 +14,9 @@ body{
     
     
 }
+nav{
+    margin-left: 20px;
+}
 h1{
     font-family: 'computer';
     color: rgb(232, 243, 252);
