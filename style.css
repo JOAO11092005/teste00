@@ -1,16 +1,17 @@
-@font-face {
+font-face {
     font-family: 'Computer';
-    src: url(./GODOFWAR.TTF);
+    src: url(./Louis\ George\ Cafe\ Bold\ Italic.ttf);
 }
 @font-face {
     font-family: 'style';
     src: url(./White\ Dream.otf);
 }
 body{
-    background-image: url(./God\ of\ war\,\ omega\,\ logo\,\ video\ game\,\ minimal\,\ 2560x1440\ wallpaper.jpeg);
+    background-image: url(./JSX\ In\ Depth.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    
     
 }
 h1{
